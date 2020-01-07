@@ -16,7 +16,8 @@ Bot Kicker & Bot Protect
 * npm start
 
 # Command "Help" :
-🎶 Keyword Khusus Admin 🎶
+       
+       🎶 Keyword Khusus Admin 🎶
        - `[Kick On/Off] = On/Off Mode Kick`
        - `[Kickall] = Mengekick Semua Member`
        - `[Info kick] = Cara Menggunakan Fitur Kickall`
